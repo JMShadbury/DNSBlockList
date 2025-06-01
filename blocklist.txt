@@ -1,7 +1,2 @@
-! Title: JMShadbury Blocklist
-! Description: Blocklist for JMShadbury's DNSBlockList
-! Homepage: https://github.com/JMShadbury/DNSBlockList
-! Last modified: 2025-06-01
-
-wired.com
-*.wired.com
+||wired.com^
+||*.wired.com^
