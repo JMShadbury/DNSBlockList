@@ -3,4 +3,4 @@
 ! Homepage: https://github.com/JMShadbury/DNSBlockList
 ! Last modified: 2025-06-01
 
-||analytics.plex.tv^
+analytics.plex.tv
