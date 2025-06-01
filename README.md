@@ -1,0 +1,2 @@
+# DNSBlockList
+ADBlocker Custom List
