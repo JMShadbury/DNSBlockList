@@ -3,3 +3,5 @@
 ||adblock.gjtech.net^
 ||spam404bl.com^
 ||preapp.prod.partner.netflix.net^
+||nrdp.prod.cloud.netflix.com^
+||occ-0-284-2568.1.nflxso.net^
