@@ -2,3 +2,4 @@
 ||pornhub.com^
 ||adblock.gjtech.net^
 ||spam404bl.com^
+||preapp.prod.partner.netflix.net^
