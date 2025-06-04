@@ -1,7 +1,7 @@
 
-||pornhub.com^
 ||adblock.gjtech.net^
 ||spam404bl.com^
 ||preapp.prod.partner.netflix.net^
 ||affiliationjs.s3.amazonaws.com^
 ||occ-0-284-2568.1.nflxso.net^
+||widgets.pinterest.com^
