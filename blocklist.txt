@@ -5,3 +5,4 @@
 ||affiliationjs.s3.amazonaws.com^
 ||occ-0-284-2568.1.nflxso.net^
 ||widgets.pinterest.com^
+||nrdp51-appboot.netflix.com^
