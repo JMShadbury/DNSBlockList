@@ -10,3 +10,4 @@
 ||nflxso.net^
 ||x.com^
 ||api.x.com^
+||twitter.com^
