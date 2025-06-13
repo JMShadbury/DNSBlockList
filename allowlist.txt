@@ -1,1 +1,2 @@
-||analytics.plex.tv^
+@@||monitoring.ap-southeast-2.amazonaws.com^$important
+@@||analytics.plex.tv^$important
