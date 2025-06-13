@@ -8,6 +8,3 @@
 ||push.prod.netflix.com^
 ||cdn-0.nflximg.com^
 ||nflxso.net^
-||x.com^
-||api.x.com^
-||twitter.com^
