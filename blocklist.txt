@@ -9,9 +9,7 @@
 ||captive.g.aaplimg.com^
 ||captive.apple.com^
 ||bag.itunes.apple.com^
-||e6858.dsce9.akamaiedge.net^
 ||api-glb-aapse2c.smoot.apple.com^
 ||smoot-searchv2-aapse2c.v.aaplimg.com^
-||e673.dsce9.akamaiedge.net^
-||e17437.dsct.akamaiedge.net^
 ||ms.applovin.com^
+||akamaiedge.net^
