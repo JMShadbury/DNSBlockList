@@ -14,3 +14,4 @@
 ||smoot-searchv2-aapse2c.v.aaplimg.com^
 ||e673.dsce9.akamaiedge.net^
 ||e17437.dsct.akamaiedge.net^
+||ms.applovin.com^
