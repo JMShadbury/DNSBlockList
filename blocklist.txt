@@ -1,12 +1,11 @@
-
 ||adblock.gjtech.net^
 ||spam404bl.com^
 ||preapp.prod.partner.netflix.net^
 ||affiliationjs.s3.amazonaws.com^
-||occ-0-284-2568.1.nflxso.net^
 ||widgets.pinterest.com^
 ||nrdp51-appboot.netflix.com^
 ||nrdp.prod.cloud.netflix.com^
 ||push.prod.netflix.com^
-||occ-0-284-2568.1.nflxso.net^
 ||cdn-0.nflximg.com^
+||nflxso.net^
+||x.com/i/api/1.1/promoted_content/log.json
