@@ -1,3 +1,2 @@
 ||youtube.com^$client=192.168.1.155/32
-||youtube.com^$client=192.168.1.53/32
 ||youtube.com^$client=192.168.1.59/32
