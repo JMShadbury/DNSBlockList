@@ -1,3 +1,7 @@
 
-! 🟥 Block
+! 🟥 Default Block 
 ||www.omegle.fun^$client=~'Default All'
+
+! 🟥 Block All
+
+||clientstream-ga.launchdarkly.com
