@@ -1,5 +1,5 @@
 ! 🟩 Allow
-@@||twitter.com^$client=~'Default All'
-@@||x.com^$client=~'Default All'
-@@||pbs.twimg.com^$client=~'Default All'
-@@||video.twimg.com^$client=~'Default All'
+@@||twitter.com^$client=~'Default All',important
+@@||x.com^$client=~'Default All',important
+@@||pbs.twimg.com^$client=~'Default All',important
+@@||video.twimg.com^$client=~'Default All',important
