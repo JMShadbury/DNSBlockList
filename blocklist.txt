@@ -1,1 +1,3 @@
 
+! 🟥 Block
+||www.omegle.fun^$client=~'Default All'

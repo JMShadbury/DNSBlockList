@@ -1,2 +1,5 @@
-@@||monitoring.ap-southeast-2.amazonaws.com^$important
-@@||analytics.plex.tv^$important
+! 🟩 Allow
+@@||twitter.com^$client=~'Default All'
+@@||x.com^$client=~'Default All'
+@@||pbs.twimg.com^$client=~'Default All'
+@@||video.twimg.com^$client=~'Default All'
