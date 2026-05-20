@@ -1,8 +1,0 @@
-! 🟩 Allow Default Clients
-@@||music.youtube.com^$client='Default All',important
-
-! 🟩 Allow Other Clients
-@@||twitter.com^$client=~'Default All',important
-@@||x.com^$client=~'Default All',important
-@@||pbs.twimg.com^$client=~'Default All',important
-@@||video.twimg.com^$client=~'Default All',important
