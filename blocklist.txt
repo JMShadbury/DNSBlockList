@@ -7,5 +7,4 @@
 ||clientstream-ga.launchdarkly.com
 ||teams.microsoft.com
 ||atv-ps-fe.primevideo.com^
-||primevideo.com/cdp/getVideoAds^
 ||primevideo.com/cdp/*
