@@ -5,6 +5,7 @@
 ! 🟥 Block All
 
 ||clientstream-ga.launchdarkly.com
-||teams.microsoft.com
-||atv-ps-fe.primevideo.com^
+||atv-ps-fe.primevideo.com/cdp/getVideoAds
+||atv-ps.amazon.com
 ||primevideo.com/cdp/*
+||atv-ps-fe.primevideo.com/cdp/lumina/*
